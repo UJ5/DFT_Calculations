@@ -1,2 +1,1 @@
-# DFT_calculations
-# DFT_calculations
+# DFT_calculation
