@@ -1,0 +1,9 @@
+ &DOS
+                      prefix = 'Mn2CoGa' ,
+                      outdir = '.' ,
+                      fildos = 'Mn2CoGa_dos.dat' ,
+                      ngauss = -1 ,
+                        Emin = -80 ,
+                        Emax = 80 ,
+ /
+

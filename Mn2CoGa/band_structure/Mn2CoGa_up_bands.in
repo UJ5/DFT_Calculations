@@ -1,0 +1,7 @@
+ &BANDS
+                      prefix = 'Mn2CoGa' ,
+                      outdir = '.' ,
+                     filband = 'Mn2CoGa_up_bands.dat' ,
+              spin_component = 1 ,
+ /
+
